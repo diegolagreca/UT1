@@ -1,0 +1,7 @@
+/* Selecciona los elementos <p> que son hijos de un algun elemento de clase "container" */
+.container p.text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+
+.mybuttons {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+
+}
+.mybuttons.left {
+  background-color: black;
+  color: white;
+}
+
+.mybuttons.right {
+  border-color: yellow;
+}
+
